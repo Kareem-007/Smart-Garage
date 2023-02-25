@@ -1,5 +1,4 @@
 # Smart-Garage
-A smart garage repo, including both software and hardware implementation
 
 In this project, we designed a smart garage that has a smart lighting system, automatic controlled gates that control the number of cars in the garage, and an LCD that shows the number of available car slots inside.
 This project is an application for some arduino learned topics as we used an Arduino microcontroller to control the circuit including:
